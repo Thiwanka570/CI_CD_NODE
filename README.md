@@ -20,8 +20,8 @@ This project is a simple CI/CD practice using a React.js application deployed on
 Start by cloning the repository to your local machine:
 
 ```bash
-git clone https://github.com/your-username/your-repo-name.git
-cd your-repo-name
+git clone https://github.com/Thiwanka570/CI_CD_NODE.git
+cd CI_CD_NODE
 ```
 
 ### 2. Install Dependencies
